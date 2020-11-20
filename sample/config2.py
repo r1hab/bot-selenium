@@ -1,0 +1,15 @@
+keys = {
+        "product_url": "https://heat.superkicks.in",
+        "f_name": "ahmed",
+        "l_name": "rihab",
+        "email": "rihabahmed95@gmail.com",
+        "phone": 8705024888,
+        "address": "vl-5 jasmine colony,chandwada,fatorda,margao,goa",
+        "city": "margao",
+        "zipcode": 403602,
+        "state": "Goa",
+        "carde": 4533165844995589,
+        "monthe": '08',
+        "yeare": 25,
+        "cvv": 113,
+}
